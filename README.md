@@ -27,7 +27,7 @@ While position detection is highly accurate, the angle error metric may largely 
 
 ## Next Steps Proposal
 
-@@ -43,7 +42,7 @@ Removing these specific failure modes, the acceptable baseline angle error for c
+Removing these specific failure modes, the acceptable baseline angle error for c
 *   `numpy`, `pandas`, `scikit-learn`, `scikit-image`, `scipy`, `joblib`
 
 ### Running the Detector
