@@ -16,7 +16,6 @@ Key technical details:
 
 ## Results and Analysis
 
-@@ -21,11 +21,10 @@ Key technical details:
 *   **Running Time:** ~2 minutes total for the entire dataset (using parallel feature extraction via `joblib`).
 
 ### Angle Error Analysis
